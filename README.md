@@ -1,36 +1,40 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:123B5D,100:0077B6&height=200&section=header&text=CHANDU%20CHINTHADA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Software%20%26%20Data%20Technologies&descAlignY=61&descSize=15" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=34&duration=3500&pause=1200&color=123B5D&center=true&vCenter=true&width=750&height=55&lines=CHANDU+CHINTHADA" alt="Chandu Chinthada" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=900&color=0077B6&center=true&vCenter=true&width=750&height=35&lines=Computer+Science+Graduate+%7C+2026;Aspiring+Software+Engineer;Data+Analytics+%7C+AI+%26+Machine+Learning" alt="Professional introduction" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Exploring+Data+Engineering+%26+Analytics;Interested+in+Artificial+Intelligence+%26+ML;Building+Projects+and+Learning+Every+Day" alt="Professional role animation" />
+<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20CSE-123B5D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GRADUATION-2026-0077B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Data-159EAD?style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://github.com/ChanduChinthada">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/chandu-chinthada-a16a14299/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://leetcode.com/Chandu_Chinthada/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ChanduChinthada&label=PROFILE%20VIEWS&color=0077B6&style=flat-square" />
 
-</div>
+<br/>
 
 ---
 
-<div align="center">
+### Building • Learning • Exploring
 
-### B.Tech Computer Science & Engineering · 2022–2026
-
-**Interested in building practical solutions through software, data and emerging technologies.**
+*Interested in developing practical solutions through software, data and emerging technologies.*
 
 </div>
 
@@ -181,153 +185,115 @@ Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT)
 
 <div align="center">
 
-*Building practical solutions across Software Development, Data Analytics and Artificial Intelligence.*
+*Selected projects in Software Development, Data Analytics & AI/ML*
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 📊 Bondora Credit Risk Analysis
+### 📊 Bondora Credit Risk
 
-<img src="./Credit%20risk%20Analysys.png" width="100%" alt="Bondora Credit Risk Analysis" />
+<img src="./Credit%20risk%20Analysys.png" width="85%" alt="Bondora Credit Risk Analysis"/>
 
-**Data Analytics | Financial Data**
+**Python · SQL · Power BI**
 
-Analyzing borrower and loan data to explore credit risk and loan default patterns.
+Credit risk analysis, loan default patterns and interactive dashboards.
 
-**Technologies**
-
-`Python` `Pandas` `NumPy` `SQL` `Power BI`
-
-- Data preprocessing and EDA
-- Feature engineering and ML experiments
-- SQL analysis and Power BI dashboard
+`Pandas` `NumPy` `EDA` `DAX`
 
 <a href="https://github.com/ChanduChinthada/Credit-Risk-Analysis-Using-Bondora">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🤖 Multimodal Disease Prediction
 
-<img src="./multidisease.png" width="100%" alt="Multimodal Disease Prediction" />
+<img src="./multidisease.png" width="85%" alt="Multimodal Disease Prediction"/>
 
-**Artificial Intelligence | Machine Learning**
+**AI · Deep Learning · ML**
 
-Exploring multimodal disease prediction using deep learning and machine learning techniques.
+Multimodal disease prediction using image features and machine learning.
 
-**Technologies**
-
-`EfficientNetV2` `Random Forest` `Flask` `SQLite`
-
-- Image-based feature extraction
-- Deep learning and ML integration
-- Flask application with SQLite
+`EfficientNetV2` `Random Forest` `Flask`
 
 <a href="https://github.com/ChanduChinthada?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 📈 Social Media Impact Analysis
+### 📈 Social Media Impact
 
-<img src="./socialmedia.png" width="100%" alt="Social Media Impact Analysis" />
+<img src="./socialmedia.png" width="85%" alt="Social Media Impact Analysis"/>
 
-**Data Analytics | Business Intelligence**
+**Power BI · Data Analytics**
 
-Exploring social media data and presenting insights through visual dashboards.
+Interactive dashboard for exploring social media engagement and insights.
 
-**Technologies**
-
-`Power BI` `DAX` `Data Visualization`
-
-- Data exploration
-- Dashboard development
-- Visual reporting and insights
+`Power BI` `DAX` `Visualization`
 
 <a href="https://github.com/ChanduChinthada?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### ✈️ Airline Reservation System
 
-<img src="./Airkline.png" width="100%" alt="Airline Reservation System" />
+<img src="./Airkline.png" width="85%" alt="Airline Reservation System"/>
 
-**Software Development | Database**
+**Java · MySQL · JDBC**
 
-Java-based application for managing airline reservation operations.
+Reservation management application with database connectivity and CRUD operations.
 
-**Technologies**
-
-`Java` `OOP` `MySQL` `JDBC`
-
-- Object-oriented programming
-- Database connectivity
-- CRUD operations
+`Java` `OOP` `MySQL`
 
 <a href="https://github.com/ChanduChinthada?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎮 THE BETRAYAL
 
-<img src="./game.png" width="100%" alt="THE BETRAYAL Game" />
+<img src="./game.png" width="85%" alt="THE BETRAYAL Game"/>
 
-**Full-Stack | Real-Time Application**
+**React · Node.js · Socket.IO**
 
-A multiplayer social deduction game with role-based gameplay and real-time communication.
+Multiplayer social deduction game with role-based gameplay and real-time communication.
 
-**Technologies**
-
-`React` `JavaScript` `Node.js` `Express` `Socket.IO`
-
-- Game interface and gameplay flows
-- Real-time multiplayer communication
-- Room and role management
+`React` `Express` `JavaScript`
 
 <a href="https://github.com/ChanduChinthada?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🌦️ Weather Forecasting App
 
-<img src="./weather%20.png" width="100%" alt="Weather Forecasting App" />
+<img src="./weather%20.png" width="85%" alt="Weather Forecasting App"/>
 
-**Web Development**
+**HTML · CSS · JavaScript**
 
-A web application project focused on presenting weather information through a simple interface.
+A simple web application for presenting weather information.
 
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-- Responsive web interface
-- Weather information presentation
-- Frontend development
+`Frontend` `Responsive UI`
 
 <a href="https://github.com/ChanduChinthada?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077B5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
 </td>
@@ -337,13 +303,12 @@ A web application project focused on presenting weather information through a si
 <div align="center">
 
 <a href="https://github.com/ChanduChinthada?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
-
 ## 🎯 Career Interests
 
 <div align="center">
