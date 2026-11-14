@@ -220,7 +220,7 @@ Multimodal disease prediction using image features and machine learning.
 
 `EfficientNetV2` `Random Forest` `Flask`
 
-<a href="https://github.com/ChanduChinthada?tab=repositories">
+<a href="https://github.com/ChanduChinthada/Multi_Disease_Prediction">
 <img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
@@ -256,7 +256,7 @@ Reservation management application with database connectivity and CRUD operation
 
 `Java` `OOP` `MySQL`
 
-<a href="https://github.com/ChanduChinthada?tab=repositories">
+<a href="https://github.com/ChanduChinthada/Airline-reservation">
 <img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
@@ -275,7 +275,7 @@ Multiplayer social deduction game with role-based gameplay and real-time communi
 
 `React` `Express` `JavaScript`
 
-<a href="[https://github.com/ChanduChinthada?tab=repositories](https://github.com/ChanduChinthada/THE-BETRAYAL)">
+<a href="https://github.com/ChanduChinthada/THE-BETRAYAL">
 <img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
@@ -292,7 +292,7 @@ A simple web application for presenting weather information.
 
 `Frontend` `Responsive UI`
 
-<a href="https://github.com/ChanduChinthada?tab=repositories">
+<a href="https://github.com/ChanduChinthada/Weather">
 <img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
