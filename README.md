@@ -191,7 +191,7 @@ Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT)
 
 ### 📊 Bondora Credit Risk Analysis
 
-<img src="./assets/Credit risk Analysys.png" width="100%" alt="Bondora Credit Risk Analysis" />
+<img src="./Credit%20risk%20Analysys.png" width="100%" alt="Bondora Credit Risk Analysis" />
 
 **Data Analytics | Financial Data**
 
@@ -214,7 +214,7 @@ Analyzing borrower and loan data to explore credit risk and loan default pattern
 
 ### 🤖 Multimodal Disease Prediction
 
-<img src="./assets/multidisease.png" width="100%" alt="Multimodal Disease Prediction" />
+<img src="./multidisease.png" width="100%" alt="Multimodal Disease Prediction" />
 
 **Artificial Intelligence | Machine Learning**
 
@@ -240,7 +240,7 @@ Exploring multimodal disease prediction using deep learning and machine learning
 
 ### 📈 Social Media Impact Analysis
 
-<img src="./assets/socialmedia.png" width="100%" alt="Social Media Impact Analysis" />
+<img src="./socialmedia.png" width="100%" alt="Social Media Impact Analysis" />
 
 **Data Analytics | Business Intelligence**
 
@@ -263,7 +263,7 @@ Exploring social media data and presenting insights through visual dashboards.
 
 ### ✈️ Airline Reservation System
 
-<img src="./assets/Airkline.png" width="100%" alt="Airline Reservation System" />
+<img src="./Airkline.png" width="100%" alt="Airline Reservation System" />
 
 **Software Development | Database**
 
@@ -289,7 +289,7 @@ Java-based application for managing airline reservation operations.
 
 ### 🎮 THE BETRAYAL
 
-<img src="./assets/game.png" width="100%" alt="THE BETRAYAL Game" />
+<img src="./game.png" width="100%" alt="THE BETRAYAL Game" />
 
 **Full-Stack | Real-Time Application**
 
@@ -312,7 +312,7 @@ A multiplayer social deduction game with role-based gameplay and real-time commu
 
 ### 🌦️ Weather Forecasting App
 
-<img src="./assets/weather.png" width="100%" alt="Weather Forecasting App" />
+<img src="./weather%20.png" width="100%" alt="Weather Forecasting App" />
 
 **Web Development**
 
