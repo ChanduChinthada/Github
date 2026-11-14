@@ -275,7 +275,7 @@ Multiplayer social deduction game with role-based gameplay and real-time communi
 
 `React` `Express` `JavaScript`
 
-<a href="https://github.com/ChanduChinthada?tab=repositories">
+<a href="[https://github.com/ChanduChinthada?tab=repositories](https://github.com/ChanduChinthada/THE-BETRAYAL)">
 <img src="https://img.shields.io/badge/Explore_Project-0077B5?style=flat-square&logo=github"/>
 </a>
 
